@@ -1,0 +1,32 @@
+#Total No. of N-Gram Types: 30
+#Total No. of N-Gram Tokens: 114
+1	14	1	class note
+2	14	1	span class
+3	8	1	distinct form
+4	7	1	note мычит
+5	7	1	мычит span
+6	4	1	span yoky
+7	4	1	а потом
+8	4	1	до сих
+9	4	1	сих пор
+10	3	1	distinct yoky
+11	3	1	note покашливает
+12	3	1	note цокает
+13	3	1	yoky но
+14	3	1	покашливает span
+15	3	1	цокает span
+16	2	1	noindex нрзб
+17	2	1	span distinct
+18	2	1	yoky а
+19	2	1	yoky в
+20	2	1	yoky и
+21	2	1	yoky потом
+22	2	1	всё это
+23	2	1	из города
+24	2	1	к сожалению
+25	2	1	не очень
+26	2	1	но к
+27	2	1	нрзб noindex
+28	2	1	по причине
+29	2	1	у меня
+30	2	1	фотоаппарат span
